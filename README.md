@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `Dinita Marius`.
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning ~~HTML~~, ~~CSS~~, ~~JS~~, ~~Sass~~, React
+- 🌱 I’m currently learning ~~HTML~~, ~~CSS~~, ~~JS~~, ~~Sass~~, ~~GIT~~, React
 - 💞️ I’m looking to collaborate on new and interesting projects
 - 📫 How to reach me => [dmarius20@gmail.com](https://mail.google.com/mail/)
 
